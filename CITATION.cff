@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HIT-Rocket: High-Performance Time Series Classification"
+authors:
+  - name: "HIT-Rocket Team"
+version: 1.0.0
+date-released: 2025-11-01
+url: "https://github.com/Einstein-sworder/HitRocket"
+preferred-citation:
+  type: article
+  journal: "arXiv preprint arXiv:2511.01572"
+  title: "HIT-Rocket: Efficient Time Series Classification using Hadamard Transform"
+  year: 2025
+  url: "https://arxiv.org/abs/2511.01572"
