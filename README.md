@@ -145,21 +145,13 @@ If you find this code or method useful for your research, please cite our ArXiv 
 
 
 
-Paper Link: https://arxiv.org/abs/2511.01572
-
-
-
-@article{hitrocket2025,
-
-  title={HIT-Rocket: Efficient Time Series Classification using Hadamard Transform},
-
-  author={Tan, Chenxing and Authors},
-
-  journal={arXiv preprint arXiv:2511.01572},
-
-  year={2025},
-
-  url={[https://arxiv.org/abs/2511.01572](https://arxiv.org/abs/2511.01572)}
-
+@article{HAO2026114220,
+title = {HITrocket: Hadamard-vector inner-product transform of ROCKET for time series classification},
+journal = {Pattern Recognition},
+volume = {180},
+pages = {114220},
+year = {2026},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2026.114220},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320326011854}
 }
-
